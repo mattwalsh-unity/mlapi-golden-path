@@ -43,7 +43,7 @@ public class MultiSceneTest : MonoBehaviour
         {
             sceneIndex = 0;
         }
-        NetworkSceneManager.SwitchScene(NetworkManager.Singleton.NetworkConfig.RegisteredScenes[sceneIndex]);
+//        NetworkSceneManager.SwitchScene(NetworkManager.Singleton.NetworkConfig.RegisteredScenes[sceneIndex]);
     }
 
     private bool FindCurrentScene(string sceneName)
