@@ -248,6 +248,11 @@ MonoBehaviour:
       SourcePrefabToOverride: {fileID: 0}
       SourceHashToOverride: 0
       OverridingTargetPrefab: {fileID: 0}
+    - Override: 0
+      Prefab: {fileID: 5302841699495675307, guid: 0e4242b3ffb5042f5b1ae9fc0bdcb2c9, type: 3}
+      SourcePrefabToOverride: {fileID: 0}
+      SourceHashToOverride: 0
+      OverridingTargetPrefab: {fileID: 0}
     ReceiveTickrate: 64
     NetworkTickIntervalSec: 0.05
     MaxReceiveEventsPerTickRate: 500
@@ -312,7 +317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03776edc3288a4147b3c0d8489a9771c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myPrefabNO: {fileID: 3261405705560669302, guid: 256164601d3124cc19e054c4f41f0e4b, type: 3}
+  myPrefabNO: {fileID: 5302841699495675307, guid: 0e4242b3ffb5042f5b1ae9fc0bdcb2c9, type: 3}
   mySecondPrefabNO: {fileID: 0}
 --- !u!4 &530232232
 Transform:
